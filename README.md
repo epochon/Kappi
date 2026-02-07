@@ -20,8 +20,6 @@ The agent:
 The system is designed to prioritize user trust and ethical AI behavior. It deliberately refuses to provide precise predictions or prescriptive legal advice when such outputs would be unsafe, misleading, or unethical.
 
 ## WORKFLOW 
-
-
 ```text
 User Legal Query
         ↓
@@ -42,7 +40,7 @@ Explainable Response Generation
 Chat-Based UI with Risk & Confidence Indicators
 
 
-## TEAM INFORMATION 
+TEAM INFORMATION 
 1. ABHIJITH C U
 2. ADITHYA PRAJEESH
 3. BHAVYA ANIL
