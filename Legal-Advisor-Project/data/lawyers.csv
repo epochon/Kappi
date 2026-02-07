@@ -1,0 +1,201 @@
+Lawyer_ID,Name,City,Practice_Area,Years_of_Experience,Enrollment_Year,Languages,Availability
+YL001,Sahil Khan,Mumbai,Criminal Law,5,2020,"English, Hindi, Tamil",Low
+YL002,Priya Singh,Bengaluru,Property Law,0,2025,"English, Hindi, Telugu",Low
+YL003,Pooja Verma,Pune,Criminal Law,0,2025,"English, Hindi",Low
+YL004,Priya Singh,Jaipur,Cheque Bounce,0,2025,"English, Hindi, Telugu",Low
+YL005,Divya Nair,Jaipur,Consumer Law,1,2024,"English, Hindi, Malayalam",High
+YL006,Karthik R,Delhi,Civil Law,5,2020,"English, Hindi, Malayalam",Medium
+YL007,Karthik R,Bengaluru,Civil Law,2,2023,"English, Hindi",Low
+YL008,Arjun Mehta,Mumbai,Family Law,2,2023,"English, Hindi, Telugu",Medium
+YL009,Aditya Joshi,Delhi,Property Law,3,2022,"English, Hindi, Telugu",Low
+YL010,Nitin Das,Pune,Criminal Law,4,2021,"English, Hindi, Tamil",High
+YL011,Pooja Verma,Kochi,Cheque Bounce,1,2024,"English, Hindi",Low
+YL012,Sahil Khan,Chennai,Family Law,0,2025,English,Low
+YL013,Arjun Mehta,Hyderabad,Consumer Law,5,2020,"English, Hindi, Tamil",Low
+YL014,Neha Gupta,Kochi,Civil Law,5,2020,"English, Hindi, Tamil",High
+YL015,Nitin Das,Mumbai,Cheque Bounce,5,2020,English,High
+YL016,Divya Nair,Chennai,Civil Law,3,2022,"English, Hindi, Malayalam",Medium
+YL017,Nitin Das,Jaipur,Civil Law,5,2020,"English, Hindi, Tamil",Low
+YL018,Priya Singh,Delhi,Family Law,3,2022,"English, Hindi, Tamil",Low
+YL019,Priya Singh,Indore,Property Law,2,2023,English,High
+YL020,Sneha Patil,Pune,Property Law,3,2022,English,Medium
+YL021,Ananya Iyer,Chennai,Property Law,4,2021,"English, Hindi, Telugu",Medium
+YL022,Divya Nair,Indore,Consumer Law,4,2021,"English, Hindi, Malayalam",Medium
+YL023,Priya Singh,Bengaluru,Cheque Bounce,3,2022,"English, Hindi",Low
+YL024,Kavya Malhotra,Mumbai,Civil Law,5,2020,English,High
+YL025,Arjun Mehta,Indore,Criminal Law,3,2022,"English, Hindi, Malayalam",High
+YL026,Sneha Patil,Jaipur,Family Law,4,2021,"English, Hindi",High
+YL027,Divya Nair,Mumbai,Property Law,4,2021,"English, Hindi, Tamil",High
+YL028,Neha Gupta,Mumbai,Family Law,3,2022,English,Medium
+YL029,Aarav Sharma,Hyderabad,Cheque Bounce,1,2024,"English, Hindi, Telugu",Low
+YL030,Kavya Malhotra,Hyderabad,Property Law,4,2021,"English, Hindi, Telugu",Low
+YL031,Ananya Iyer,Kochi,Civil Law,4,2021,"English, Hindi, Telugu",Low
+YL032,Pooja Verma,Kochi,Consumer Law,0,2025,"English, Hindi",Medium
+YL033,Nitin Das,Hyderabad,Civil Law,0,2025,English,High
+YL034,Rohit Kumar,Mumbai,Property Law,3,2022,"English, Hindi",High
+YL035,Aditya Joshi,Bengaluru,Civil Law,5,2020,"English, Hindi, Malayalam",High
+YL036,Ananya Iyer,Hyderabad,Cheque Bounce,4,2021,"English, Hindi, Malayalam",Low
+YL037,Nitin Das,Jaipur,Property Law,5,2020,English,High
+YL038,Karthik R,Pune,Property Law,5,2020,"English, Hindi, Tamil",Medium
+YL039,Nitin Das,Jaipur,Consumer Law,0,2025,English,Low
+YL040,Rohit Kumar,Kochi,Criminal Law,4,2021,"English, Hindi, Telugu",Low
+YL041,Pooja Verma,Chennai,Criminal Law,0,2025,"English, Hindi",Low
+YL042,Rohit Kumar,Delhi,Family Law,0,2025,"English, Hindi, Telugu",Low
+YL043,Karthik R,Kolkata,Civil Law,4,2021,English,High
+YL044,Nitin Das,Indore,Cheque Bounce,3,2022,English,Medium
+YL045,Aditya Joshi,Pune,Civil Law,0,2025,"English, Hindi",High
+YL046,Arjun Mehta,Kochi,Consumer Law,3,2022,"English, Hindi, Malayalam",High
+YL047,Aarav Sharma,Mumbai,Criminal Law,3,2022,"English, Hindi, Tamil",Low
+YL048,Priya Singh,Chennai,Civil Law,4,2021,"English, Hindi, Malayalam",Low
+YL049,Arjun Mehta,Bengaluru,Family Law,3,2022,English,Low
+YL050,Sneha Patil,Jaipur,Criminal Law,0,2025,"English, Hindi, Telugu",Low
+YL051,Rohit Kumar,Chennai,Civil Law,3,2022,"English, Hindi, Malayalam",Medium
+YL052,Priya Singh,Pune,Criminal Law,1,2024,"English, Hindi, Malayalam",Low
+YL053,Arjun Mehta,Hyderabad,Consumer Law,2,2023,"English, Hindi, Malayalam",High
+YL054,Divya Nair,Jaipur,Property Law,5,2020,"English, Hindi, Malayalam",Low
+YL055,Priya Singh,Hyderabad,Civil Law,0,2025,"English, Hindi, Telugu",High
+YL056,Vikram Rao,Delhi,Property Law,2,2023,"English, Hindi",Low
+YL057,Pooja Verma,Kolkata,Cheque Bounce,4,2021,English,Low
+YL058,Vikram Rao,Mumbai,Civil Law,0,2025,"English, Hindi, Telugu",Low
+YL059,Sahil Khan,Chennai,Consumer Law,0,2025,"English, Hindi, Telugu",Low
+YL060,Pooja Verma,Indore,Criminal Law,4,2021,"English, Hindi",Medium
+YL061,Sahil Khan,Indore,Cheque Bounce,4,2021,"English, Hindi, Tamil",Medium
+YL062,Priya Singh,Kochi,Civil Law,2,2023,"English, Hindi, Malayalam",Low
+YL063,Sahil Khan,Hyderabad,Consumer Law,2,2023,"English, Hindi",Low
+YL064,Sneha Patil,Indore,Cheque Bounce,0,2025,"English, Hindi",High
+YL065,Priya Singh,Jaipur,Family Law,1,2024,"English, Hindi, Tamil",Low
+YL066,Nitin Das,Chennai,Family Law,2,2023,English,Medium
+YL067,Kavya Malhotra,Jaipur,Property Law,2,2023,"English, Hindi, Telugu",High
+YL068,Vikram Rao,Delhi,Property Law,4,2021,"English, Hindi, Tamil",High
+YL069,Rohit Kumar,Bengaluru,Family Law,0,2025,"English, Hindi",High
+YL070,Vikram Rao,Bengaluru,Family Law,2,2023,"English, Hindi, Telugu",Low
+YL071,Divya Nair,Kochi,Civil Law,5,2020,"English, Hindi, Tamil",High
+YL072,Sneha Patil,Hyderabad,Criminal Law,0,2025,"English, Hindi, Malayalam",Medium
+YL073,Aarav Sharma,Delhi,Family Law,1,2024,"English, Hindi, Tamil",Low
+YL074,Divya Nair,Kolkata,Cheque Bounce,5,2020,"English, Hindi, Malayalam",High
+YL075,Aarav Sharma,Mumbai,Criminal Law,5,2020,English,High
+YL076,Aarav Sharma,Kochi,Cheque Bounce,4,2021,English,Medium
+YL077,Ananya Iyer,Delhi,Family Law,2,2023,"English, Hindi",Medium
+YL078,Priya Singh,Chennai,Property Law,0,2025,"English, Hindi, Tamil",High
+YL079,Nitin Das,Pune,Cheque Bounce,5,2020,English,Low
+YL080,Kavya Malhotra,Bengaluru,Civil Law,3,2022,"English, Hindi",Low
+YL081,Divya Nair,Kochi,Consumer Law,5,2020,English,Medium
+YL082,Ananya Iyer,Mumbai,Consumer Law,0,2025,"English, Hindi, Malayalam",Low
+YL083,Priya Singh,Kolkata,Family Law,2,2023,English,Low
+YL084,Aarav Sharma,Chennai,Consumer Law,2,2023,"English, Hindi, Tamil",Low
+YL085,Aditya Joshi,Hyderabad,Family Law,5,2020,"English, Hindi, Telugu",Medium
+YL086,Sahil Khan,Jaipur,Family Law,0,2025,"English, Hindi",Medium
+YL087,Ananya Iyer,Indore,Family Law,0,2025,"English, Hindi",High
+YL088,Arjun Mehta,Kochi,Property Law,2,2023,"English, Hindi, Malayalam",High
+YL089,Vikram Rao,Mumbai,Consumer Law,4,2021,English,Medium
+YL090,Aarav Sharma,Pune,Criminal Law,4,2021,"English, Hindi, Telugu",High
+YL091,Divya Nair,Chennai,Family Law,3,2022,"English, Hindi",High
+YL092,Nitin Das,Kochi,Cheque Bounce,2,2023,"English, Hindi",High
+YL093,Nitin Das,Hyderabad,Cheque Bounce,2,2023,"English, Hindi, Malayalam",Medium
+YL094,Arjun Mehta,Hyderabad,Cheque Bounce,1,2024,English,Medium
+YL095,Sahil Khan,Pune,Property Law,5,2020,English,High
+YL096,Pooja Verma,Hyderabad,Consumer Law,4,2021,"English, Hindi",Medium
+YL097,Karthik R,Chennai,Consumer Law,4,2021,"English, Hindi, Telugu",High
+YL098,Neha Gupta,Kolkata,Consumer Law,3,2022,English,High
+YL099,Sneha Patil,Bengaluru,Property Law,0,2025,"English, Hindi, Tamil",High
+YL100,Sahil Khan,Indore,Family Law,0,2025,English,High
+YL101,Karthik R,Chennai,Civil Law,1,2024,"English, Hindi",Low
+YL102,Priya Singh,Kolkata,Cheque Bounce,0,2025,"English, Hindi, Malayalam",Medium
+YL103,Nitin Das,Indore,Civil Law,5,2020,"English, Hindi, Malayalam",Medium
+YL104,Arjun Mehta,Chennai,Civil Law,5,2020,"English, Hindi",Low
+YL105,Aditya Joshi,Pune,Civil Law,1,2024,"English, Hindi, Telugu",Medium
+YL106,Aarav Sharma,Jaipur,Civil Law,0,2025,"English, Hindi, Malayalam",Low
+YL107,Aditya Joshi,Kolkata,Property Law,4,2021,"English, Hindi, Telugu",High
+YL108,Neha Gupta,Kolkata,Cheque Bounce,5,2020,"English, Hindi, Telugu",Medium
+YL109,Kavya Malhotra,Jaipur,Consumer Law,1,2024,"English, Hindi, Malayalam",Medium
+YL110,Karthik R,Chennai,Property Law,2,2023,"English, Hindi, Telugu",Medium
+YL111,Sahil Khan,Chennai,Family Law,3,2022,"English, Hindi",High
+YL112,Karthik R,Chennai,Family Law,2,2023,"English, Hindi, Tamil",High
+YL113,Rohit Kumar,Bengaluru,Civil Law,1,2024,"English, Hindi, Malayalam",High
+YL114,Ananya Iyer,Chennai,Criminal Law,3,2022,"English, Hindi, Malayalam",Medium
+YL115,Vikram Rao,Kolkata,Consumer Law,0,2025,English,Medium
+YL116,Arjun Mehta,Indore,Property Law,0,2025,"English, Hindi, Telugu",Medium
+YL117,Sneha Patil,Delhi,Family Law,2,2023,"English, Hindi, Malayalam",Medium
+YL118,Vikram Rao,Jaipur,Cheque Bounce,1,2024,"English, Hindi, Malayalam",Low
+YL119,Karthik R,Pune,Consumer Law,0,2025,"English, Hindi, Malayalam",Medium
+YL120,Sahil Khan,Pune,Property Law,1,2024,"English, Hindi, Malayalam",Low
+YL121,Pooja Verma,Jaipur,Criminal Law,3,2022,"English, Hindi, Telugu",High
+YL122,Sahil Khan,Delhi,Criminal Law,5,2020,"English, Hindi, Malayalam",Low
+YL123,Kavya Malhotra,Kolkata,Civil Law,0,2025,"English, Hindi, Tamil",Medium
+YL124,Neha Gupta,Chennai,Consumer Law,2,2023,"English, Hindi, Tamil",Medium
+YL125,Karthik R,Pune,Family Law,0,2025,"English, Hindi, Malayalam",Low
+YL126,Divya Nair,Jaipur,Criminal Law,2,2023,English,High
+YL127,Rohit Kumar,Delhi,Criminal Law,1,2024,English,Low
+YL128,Pooja Verma,Bengaluru,Civil Law,1,2024,"English, Hindi, Malayalam",High
+YL129,Rohit Kumar,Indore,Civil Law,3,2022,"English, Hindi, Tamil",Medium
+YL130,Ananya Iyer,Indore,Cheque Bounce,5,2020,"English, Hindi",Low
+YL131,Karthik R,Mumbai,Cheque Bounce,0,2025,"English, Hindi, Tamil",High
+YL132,Sahil Khan,Pune,Consumer Law,5,2020,English,Low
+YL133,Pooja Verma,Chennai,Criminal Law,5,2020,"English, Hindi, Tamil",High
+YL134,Pooja Verma,Mumbai,Cheque Bounce,0,2025,"English, Hindi, Tamil",High
+YL135,Arjun Mehta,Kochi,Criminal Law,4,2021,"English, Hindi, Tamil",Low
+YL136,Kavya Malhotra,Pune,Consumer Law,0,2025,"English, Hindi, Malayalam",Medium
+YL137,Sahil Khan,Kolkata,Property Law,1,2024,"English, Hindi, Malayalam",Low
+YL138,Divya Nair,Jaipur,Property Law,2,2023,"English, Hindi, Telugu",High
+YL139,Aditya Joshi,Kolkata,Consumer Law,3,2022,"English, Hindi, Telugu",Medium
+YL140,Neha Gupta,Chennai,Criminal Law,2,2023,"English, Hindi, Malayalam",Low
+YL141,Aditya Joshi,Kolkata,Cheque Bounce,4,2021,"English, Hindi, Malayalam",Medium
+YL142,Aarav Sharma,Kolkata,Family Law,1,2024,"English, Hindi, Malayalam",Low
+YL143,Neha Gupta,Hyderabad,Family Law,2,2023,"English, Hindi, Telugu",High
+YL144,Nitin Das,Hyderabad,Cheque Bounce,0,2025,"English, Hindi, Telugu",Low
+YL145,Rohit Kumar,Chennai,Property Law,3,2022,"English, Hindi, Malayalam",High
+YL146,Aditya Joshi,Chennai,Property Law,3,2022,"English, Hindi, Malayalam",Medium
+YL147,Aditya Joshi,Delhi,Criminal Law,2,2023,English,Medium
+YL148,Divya Nair,Chennai,Family Law,5,2020,"English, Hindi, Telugu",Medium
+YL149,Sneha Patil,Jaipur,Cheque Bounce,2,2023,"English, Hindi, Malayalam",High
+YL150,Vikram Rao,Kochi,Family Law,5,2020,"English, Hindi, Malayalam",Medium
+YL151,Karthik R,Hyderabad,Civil Law,0,2025,English,Medium
+YL152,Rohit Kumar,Jaipur,Property Law,1,2024,English,Low
+YL153,Divya Nair,Kolkata,Family Law,5,2020,"English, Hindi, Telugu",High
+YL154,Pooja Verma,Hyderabad,Criminal Law,1,2024,"English, Hindi, Tamil",Low
+YL155,Neha Gupta,Bengaluru,Family Law,0,2025,"English, Hindi, Telugu",Low
+YL156,Karthik R,Delhi,Criminal Law,4,2021,"English, Hindi, Tamil",High
+YL157,Ananya Iyer,Kolkata,Criminal Law,0,2025,"English, Hindi, Telugu",Medium
+YL158,Sneha Patil,Kolkata,Consumer Law,2,2023,English,Low
+YL159,Karthik R,Kolkata,Criminal Law,0,2025,"English, Hindi, Malayalam",Medium
+YL160,Rohit Kumar,Indore,Property Law,5,2020,"English, Hindi",Low
+YL161,Ananya Iyer,Indore,Family Law,0,2025,English,Low
+YL162,Vikram Rao,Pune,Cheque Bounce,4,2021,"English, Hindi, Telugu",Low
+YL163,Aditya Joshi,Jaipur,Consumer Law,3,2022,"English, Hindi, Malayalam",Medium
+YL164,Kavya Malhotra,Indore,Consumer Law,2,2023,"English, Hindi, Telugu",High
+YL165,Aarav Sharma,Indore,Property Law,0,2025,English,High
+YL166,Priya Singh,Hyderabad,Property Law,0,2025,English,Low
+YL167,Ananya Iyer,Jaipur,Criminal Law,1,2024,"English, Hindi",Medium
+YL168,Sneha Patil,Indore,Consumer Law,2,2023,"English, Hindi",Low
+YL169,Karthik R,Hyderabad,Property Law,3,2022,"English, Hindi",High
+YL170,Priya Singh,Hyderabad,Property Law,4,2021,English,Medium
+YL171,Rohit Kumar,Jaipur,Civil Law,5,2020,English,Medium
+YL172,Kavya Malhotra,Bengaluru,Criminal Law,0,2025,English,Medium
+YL173,Pooja Verma,Indore,Family Law,3,2022,"English, Hindi",Medium
+YL174,Divya Nair,Hyderabad,Property Law,3,2022,"English, Hindi, Tamil",High
+YL175,Vikram Rao,Kolkata,Consumer Law,0,2025,"English, Hindi, Telugu",Low
+YL176,Nitin Das,Pune,Property Law,2,2023,"English, Hindi, Telugu",Medium
+YL177,Aarav Sharma,Mumbai,Civil Law,5,2020,"English, Hindi, Telugu",High
+YL178,Aarav Sharma,Hyderabad,Cheque Bounce,0,2025,English,Medium
+YL179,Vikram Rao,Kolkata,Family Law,1,2024,"English, Hindi, Telugu",Medium
+YL180,Sahil Khan,Kolkata,Criminal Law,3,2022,"English, Hindi, Tamil",Medium
+YL181,Neha Gupta,Kochi,Property Law,0,2025,English,Medium
+YL182,Arjun Mehta,Kolkata,Family Law,5,2020,"English, Hindi, Malayalam",High
+YL183,Aarav Sharma,Kolkata,Criminal Law,2,2023,"English, Hindi, Tamil",Medium
+YL184,Rohit Kumar,Pune,Cheque Bounce,0,2025,"English, Hindi, Telugu",Medium
+YL185,Arjun Mehta,Delhi,Civil Law,4,2021,"English, Hindi, Tamil",High
+YL186,Aditya Joshi,Kolkata,Property Law,3,2022,"English, Hindi",Low
+YL187,Karthik R,Jaipur,Civil Law,2,2023,"English, Hindi, Malayalam",High
+YL188,Sneha Patil,Mumbai,Criminal Law,5,2020,"English, Hindi, Telugu",Low
+YL189,Divya Nair,Bengaluru,Family Law,4,2021,"English, Hindi",High
+YL190,Arjun Mehta,Mumbai,Civil Law,0,2025,"English, Hindi, Malayalam",Low
+YL191,Sahil Khan,Bengaluru,Consumer Law,5,2020,"English, Hindi, Tamil",High
+YL192,Divya Nair,Hyderabad,Consumer Law,3,2022,"English, Hindi, Malayalam",Low
+YL193,Sneha Patil,Jaipur,Civil Law,3,2022,English,High
+YL194,Vikram Rao,Bengaluru,Criminal Law,2,2023,"English, Hindi, Malayalam",Medium
+YL195,Nitin Das,Jaipur,Family Law,0,2025,"English, Hindi, Tamil",High
+YL196,Karthik R,Indore,Cheque Bounce,5,2020,"English, Hindi, Malayalam",Low
+YL197,Sneha Patil,Jaipur,Consumer Law,2,2023,"English, Hindi, Tamil",High
+YL198,Aditya Joshi,Jaipur,Consumer Law,3,2022,"English, Hindi, Tamil",Low
+YL199,Divya Nair,Chennai,Cheque Bounce,3,2022,English,Medium
+YL200,Aarav Sharma,Kochi,Property Law,3,2022,"English, Hindi, Malayalam",Medium
