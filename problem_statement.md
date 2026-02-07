@@ -1,4 +1,4 @@
-# Project: [LEGAL AI ASSISTANT]
+# Project: LEGAL AI ASSISTANT
 
 ## An AI agent bridging legal reality and accessible justice.
 This deliberative AI agent bridges the gap between legal information and legal action. By providing realistic timelines and connecting people with qualified young lawyers . We create a more transparent accessible and trustworthy legal assistant system.
