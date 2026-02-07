@@ -21,23 +21,26 @@ The system is designed to prioritize user trust and ethical AI behavior. It deli
 
 ## WORKFLOW 
 
+
+```text
 User Legal Query
-   ↓
+        ↓
 Legal Query Understanding & Structuring
-   ↓
+        ↓
 Deliberative Legal Reasoning Engine
-   ↓
+        ↓
 Timeline & Delay Estimation (Uncertainty-Aware)
-   ↓
+        ↓
 Risk, Fairness & Confidence Evaluation
-   ↓
+        ↓
 Lawyer Suitability Matching (Assistive)
-   ↓
+        ↓
 Ethical Guardrails & Refusal Check
-   ↓
+        ↓
 Explainable Response Generation
-   ↓
+        ↓
 Chat-Based UI with Risk & Confidence Indicators
+
 
 ## TEAM INFORMATION 
 1. ABHIJITH C U
