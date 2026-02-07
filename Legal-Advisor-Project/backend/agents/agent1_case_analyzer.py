@@ -36,4 +36,3 @@ Case:
             "key_defence_point": "Insufficient evidence",
             "case_duration_years": "2–3 years"
         }
-
